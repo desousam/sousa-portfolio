@@ -9,10 +9,6 @@ const config = {
         darkHover: '#2a004a',
         darkTheme: '#11001f',
       },
-      fontFamily: {
-        Outfit: ["Outfit", "sans-serif"],
-        Ovo: ["Ovo", "serif"]
-      }
     },
   },
 };
