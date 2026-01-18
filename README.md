@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 🧪 Study Project — Frontend Practice
 
-## Getting Started
+Este projeto foi desenvolvido com o objetivo de estudar e colocar em prática conceitos de frontend, explorando principalmente React.js, Next.js e Tailwind CSS, além de outras tecnologias que se integram a esse ecossistema.
 
-First, run the development server:
+Não se trata de um produto final, mas sim de um ambiente de experimentação, aprendizado e evolução contínua.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Tecnologias Utilizadas
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- React.js
+- Next.js
+- Tailwind CSS
+- JavaScript
+- Next Build Tools
+- Git & GitHub
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🚀 O que foi praticado neste projeto
 
-To learn more about Next.js, take a look at the following resources:
+- Estruturação de componentes
+- Organização de pastas e arquivos
+- Estilização com Tailwind CSS
+- Lógica de renderização e estado
+- Reutilização de componentes
+- Conceitos básicos de responsividade
+- Integração entre React e Next.js
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📍 O processo
 
-## Deploy on Vercel
+A ideia desse projeto surgiu como uma forma de aprender fazendo.
+Ao invés de focar apenas na teoria, decidi construir algo simples e ir evoluindo aos poucos, testando conceitos e errando no processo — que faz parte do aprendizado.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Comecei com a base em React, explorei a estrutura do Next.js e utilizei o Tailwind para agilizar a estilização. Ao longo do desenvolvimento, fui ajustando componentes, melhorando a organização do código e entendendo melhor como essas tecnologias trabalham juntas.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+O projeto ainda está em evolução e serve como um registro prático da minha jornada no frontend.
+
+---
+
+## 📝 Observações
+
+- Projeto focado em aprendizado
+- Código sujeito a mudanças e refatorações
+- Novas funcionalidades podem ser adicionadas com o tempo
