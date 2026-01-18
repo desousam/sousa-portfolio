@@ -4,7 +4,6 @@ Este projeto foi desenvolvido com o objetivo de estudar e colocar em prática co
 
 Não se trata de um produto final, mas sim de um ambiente de experimentação, aprendizado e evolução contínua.
 
----
 
 ## ✨ Tecnologias Utilizadas
 
@@ -15,7 +14,6 @@ Não se trata de um produto final, mas sim de um ambiente de experimentação, a
 - Next Build Tools
 - Git & GitHub
 
----
 
 ## 🚀 O que foi praticado neste projeto
 
@@ -27,7 +25,6 @@ Não se trata de um produto final, mas sim de um ambiente de experimentação, a
 - Conceitos básicos de responsividade
 - Integração entre React e Next.js
 
----
 
 ## 📍 O processo
 
@@ -38,7 +35,6 @@ Comecei com a base em React, explorei a estrutura do Next.js e utilizei o Tailwi
 
 O projeto ainda está em evolução e serve como um registro prático da minha jornada no frontend.
 
----
 
 ## 📝 Observações
 
